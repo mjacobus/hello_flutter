@@ -14,3 +14,23 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+-------
+
+```bash
+
+
+fluttern run
+flutter doctor
+
+sudo gem install cocoapods
+# or
+brew install cocoapods
+```
+
+Hot reloading:
+
+```bash
+# can add to shell test
+tmux send-keys -t flutter_run r
+```
